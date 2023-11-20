@@ -8,6 +8,11 @@ import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import mongodb from "../assets/mongodb.png";
+import postgresql from "../assets/postgresql.png";
+import expressjs from "../assets/expressjs.png";
+
+
 
 const Experience = () => {
   const techs = [
@@ -58,6 +63,24 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: mongodb,
+      title: "Mongo DB",
+      style: "shadow-green-400",
+    },
+    {
+      id: 10,
+      src: postgresql,
+      title: "PostgreSQL",
+      style: "shadow-sky-600",
+    },
+    {
+      id: 11,
+      src: expressjs,
+      title: "Express JS",
+      style: "shadow-sky-100",
     },
   ];
 

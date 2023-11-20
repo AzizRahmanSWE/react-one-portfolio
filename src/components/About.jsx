@@ -12,13 +12,13 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-          explicabo aspernatur repellat fugiat perferendis molestiae dolorum
-          excepturi non ut deleniti quisquam similique, amet natus consequuntur.
-          Nulla esse, eius numquam officiis dicta saepe beatae incidunt a ipsa
-          laboriosam excepturi quod tempora rem et porro expedita eveniet
-          aperiam sunt fugiat delectus? Quia!
+        <p className="text-xl mt-10">
+          Adept at conducting in-depth research, strategic planning, and
+          crafting resilient web applications that impeccably align with client
+          requisites. Showcases a proven prowess for collaborative teamwork,
+          adept communication, and exemplary organizational acumen. Devoted to
+          upholding punctual project delivery while unwaveringly adhering to the
+          zenith of quality benchmarks
         </p>
 
         <br />
