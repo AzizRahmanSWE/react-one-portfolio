@@ -20,16 +20,10 @@ const About = () => {
           upholding punctual project delivery while unwaveringly adhering to the
           zenith of quality benchmarks
         </p>
-
+        {/* 
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
-          ipsum eaque odit expedita totam harum, dicta architecto ducimus
-          consequuntur. Cumque praesentium quo maxime aut, et debitis nesciunt,
-          veniam molestiae reprehenderit in expedita animi dolorem deleniti
-          perspiciatis? Ex tempora deleniti amet, dolorum illum iste praesentium
-          rem sed quo magni aspernatur ratione?
-        </p>
+        </p> */}
       </div>
     </div>
   );

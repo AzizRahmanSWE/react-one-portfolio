@@ -8,18 +8,18 @@ const Home = () => {
   return (
     // name is needed for react smooth scroll
     <div
-      name="home"
-      className="min-h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
+    name="home"
+    className="min-h-screen w-full bg-gradient-to-b from-black via-black to-gray-800"
     >
+      
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full mt-16">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-4xl sm:text-7xl font-bold text-white mt-16">
             I'm a Full Stack Developer
           </h2>
 
           <p className="text-gray-500 py-4 max-w-md">
-            with 1+ Years of immersive involvement across the entire web
-            development spectrum. I am passionate about creating dynamic and
+            I am passionate about creating dynamic and
             responsive web applications while leveraging my expertise in
             technologies such as ReactJS, NodeJS, Express, and integrating
             RESTful APIs.
